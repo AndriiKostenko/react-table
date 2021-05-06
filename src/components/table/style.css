@@ -1,0 +1,17 @@
+.headerRow {
+    font-weight: 100;
+}
+
+.tableHeader :nth-child(1) {
+    color: red;
+    border: 2px solid black;
+}
+
+.headerRow .headerCell:nth-child(-n + 2){
+
+}
+
+.headerCell {
+    font-weight: 100;
+    padding: 5px ;
+}

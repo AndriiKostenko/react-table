@@ -1,0 +1,63 @@
+{
+  "reportId": "605329e6005f5d0eec25d05e",
+  "reportTitle": "umb4",
+  "rows": [
+    {
+      "id": "60756b67d149c9226be5b3ac",
+      "jobTitle": "Capital Construction 2",
+      "previewId": "60532a06005f5d0eec25d0b7",
+      "numberOfCompaniesParticipants": 1,
+      "numberOfEmployees": {
+        ">1000": 10.0,
+        "501-1000": 20.0,
+        "201-500": 20.0,
+        "50-200": 30.0,
+        "<50": 20.0
+      },
+      "salesVolume": {
+        "501-1000": 15.0,
+        "50-200": 20.0,
+        "201-500": 30.0,
+        "<50": null
+      }
+    },
+    {
+      "id": "60756b67d149c9226be5b3ad",
+      "jobTitle": "Construction Engineer 2",
+      "previewId": "60532a06005f5d0eec25d0b7",
+      "numberOfCompaniesParticipants": 1,
+      "numberOfEmployees": {
+        ">1000": 5.0,
+        "50-200": 30.0,
+        "501-1000": 10.0,
+        "201-500": 20.0,
+        "<50": 20.0
+      },
+      "salesVolume": {
+        "501-1000": 15.0,
+        "50-200": 20.0,
+        "201-500": 30.0,
+        "<50": null
+      }
+    },
+    {
+      "id": "60756b67d149c9226be5b3ae",
+      "jobTitle": "Capital 2",
+      "previewId": "60532a06005f5d0eec25d0b7",
+      "numberOfCompaniesParticipants": 1,
+      "numberOfEmployees": {
+        ">1000": 10.0,
+        "201-500": 20.0,
+        "501-1000": 20.0,
+        "50-200": 30.0,
+        "<50": 20.0
+      },
+      "salesVolume": {
+        "501-1000": 15.0,
+        "50-200": 20.0,
+        "201-500": 30.0,
+        "<50": null
+      }
+    }
+  ]
+}
